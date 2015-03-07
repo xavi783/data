@@ -1,36 +1,36 @@
-,Ticker,Empresa,Sede,ISIN,Peso
-1,ABG.P,Abengoa,Sevilla,ES0105200002,0.29
-2,ABE,Abertis Infraestructuras,Barcelona,ES0111845014,2.46
-3,ANA,Acciona,Alcobendas,ES0125220311,0.54
-4,ACS,Actividades de Construcci贸n y Servicios,Madrid,ES0167050915,1.9
-5,AMS,Amadeus,Madrid,ES0109067019,3.09
-6,MTS,Arcelor Mittal,Ciudad de Luxemburgo,LU0323134006,0.59
-7,POP,Banco Popular Espa帽ol,Madrid,ES0113790226,1.82
-8,SAB,Banco de Sabadell,Sabadell,ES0113860A34,1.85
-9,SAN,Banco Santander,Santander,ES0113900J37,18.37
-10,BKIA,Bankia,Valencia,ES0113307021,1.78
-11,BKT,Bankinter,Madrid,ES0113679I37,1.26
-12,BBVA,Banco Bilbao Vizcaya Argentaria,Bilbao,ES0113211835,10.11
-13,BME,Bolsas y Mercados Espa帽oles,Madrid,ES0115056139,0.56
-14,CABK,CaixaBank,Barcelona,ES0140609019,3.12
-15,DIA,Distribuidora Internacional de Alimentaci贸n,Las Rozas,ES0126775032,0.76
-16,ENG,Enag谩s,Madrid,ES0130960018,1.3
-17,ELE,Endesa,Madrid,ES0130670112,1.46
-18,FCC,Fomento de Construcciones y Contratas,Barcelona,ES0122060314,0.51
-19,FER,Ferrovial,Madrid,ES0118900010,2.56
-20,GAM,Gamesa Corporaci贸n Tecnol贸gica,Zamudio,ES0143416115,0.44
-21,GAS,Gas Natural SDG,Barcelona,ES0116870314,2.61
-22,GRF,Grifols,Barcelona,ES0171996012,1.47
-23,IAG,International Airlines Group,Madrid,ES0177542018,2.63
-24,IBE,Iberdrola,Bilbao,ES0144580Y14,7.46
-25,ITX,Industria de Dise帽o Textil (inditex),Arteijo,ES0148396015,9.25
-26,IDR,Indra Sistemas,Alcobendas,ES0118594417,0.28
-27,JAZ,Jazztel,Alcobendas,GB00B5TMSP21,0.67
-28,MAP,MAPFRE,Majadahonda,ES0124244E34,1.08
-29,TL5,Mediaset Espa帽a Comunicaci贸n,Alcobendas,ES0152503035,0.71
-30,OHL,Obrasc贸n Huarte Lain,Madrid,ES0142090317,0.31
-31,REE,Red El茅ctrica Corporaci贸n,Alcobendas,ES0173093115,2.07
-32,REP,Repsol,Madrid,ES0173516115,4.38
-33,SCYR,Sacyr,Madrid,ES0182870214,0.3
-34,TRE,T茅cnicas Reunidas,Madrid,ES0178165017,0.42
-35,TEF,Telef贸nica,Madrid,ES0178430E18,11.58
+"","Ticker","Empresa","Sede","ISIN","Peso"
+"1","ABG.P","Abengoa","Sevilla","ES0105200002","0.29"
+"2","ABE","Abertis Infraestructuras","Barcelona","ES0111845014","2.46"
+"3","ANA","Acciona","Alcobendas","ES0125220311","0.54"
+"4","ACS","Actividades de Construcci髇 y Servicios","Madrid","ES0167050915","1.90"
+"5","AMS","Amadeus","Madrid","ES0109067019","3.09"
+"6","MTS","Arcelor Mittal","Ciudad de Luxemburgo","LU0323134006","0.59"
+"7","POP","Banco Popular Espa駉l","Madrid","ES0113790226","1.82"
+"8","SAB","Banco de Sabadell","Sabadell","ES0113860A34","1.85"
+"9","SAN","Banco Santander","Santander","ES0113900J37","18.37"
+"10","BKIA","Bankia","Valencia","ES0113307021","1.78"
+"11","BKT","Bankinter","Madrid","ES0113679I37","1.26"
+"12","BBVA","Banco Bilbao Vizcaya Argentaria","Bilbao","ES0113211835","10.11"
+"13","BME","Bolsas y Mercados Espa駉les","Madrid","ES0115056139","0.56"
+"14","CABK","CaixaBank","Barcelona","ES0140609019","3.12"
+"15","DIA","Distribuidora Internacional de Alimentaci髇","Las Rozas","ES0126775032","0.76"
+"16","ENG","Enag醩","Madrid","ES0130960018","1.30"
+"17","ELE","Endesa","Madrid","ES0130670112","1.46"
+"18","FCC","Fomento de Construcciones y Contratas","Barcelona","ES0122060314","0.51"
+"19","FER","Ferrovial","Madrid","ES0118900010","2.56"
+"20","GAM","Gamesa Corporaci髇 Tecnol骻ica","Zamudio","ES0143416115","0.44"
+"21","GAS","Gas Natural SDG","Barcelona","ES0116870314","2.61"
+"22","GRF","Grifols","Barcelona","ES0171996012","1.47"
+"23","IAG","International Airlines Group","Madrid","ES0177542018","2.63"
+"24","IBE","Iberdrola","Bilbao","ES0144580Y14","7.46"
+"25","ITX","Industria de Dise駉 Textil (inditex)","Arteijo","ES0148396015","9.25"
+"26","IDR","Indra Sistemas","Alcobendas","ES0118594417","0.28"
+"27","JAZ","Jazztel","Alcobendas","GB00B5TMSP21","0.67"
+"28","MAP","MAPFRE","Majadahonda","ES0124244E34","1.08"
+"29","TL5","Mediaset Espa馻 Comunicaci髇","Alcobendas","ES0152503035","0.71"
+"30","OHL","Obrasc髇 Huarte Lain","Madrid","ES0142090317","0.31"
+"31","REE","Red El閏trica Corporaci髇","Alcobendas","ES0173093115","2.07"
+"32","REP","Repsol","Madrid","ES0173516115","4.38"
+"33","SCYR","Sacyr","Madrid","ES0182870214","0.30"
+"34","TRE","T閏nicas Reunidas","Madrid","ES0178165017","0.42"
+"35","TEF","Telef髇ica","Madrid","ES0178430E18","11.58"
