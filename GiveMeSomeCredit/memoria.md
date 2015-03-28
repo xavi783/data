@@ -33,6 +33,7 @@ En este caso vemos varios grupos distintos de variables:
 	* MonthlyIncome
 	* NumberOfDependents
 	* DebtRatio (dudosa la clasificación en este grupo)
-* Otros:
+	* RevolvingUtilizationOfUnsecuredLines (dudosa la clasificación en este grupo)
+* Output:
 	* SeriousDlqin2yrs
-	* RevolvingUtilizationOfUnsecuredLines
+	
