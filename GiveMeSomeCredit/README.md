@@ -6,14 +6,14 @@ days past due
 
 El número total de variables es 11
 
-* Variables categóricas: 1
+* Variables categóricas (Output): 1
 * Variables porcentuales: 2
 * Variables reales: 1
 * Variables enteras: 7
 
 |				Field Name				|    Type	|										Description																												|
 | :-----------------------------------: | :-------:	| :-----------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| SeriousDlqin2yrs						|    CAT	|	Person experienced 90 days past due delinquency or worse  																									|
+| **SeriousDlqin2yrs**						|    **CAT**	|	**Person experienced 90 days past due delinquency or worse**  																									|
 | RevolvingUtilizationOfUnsecuredLines	|    PER	|	Total balance on credit cards and personal lines of credit except real estate and no installment debt like car loans divided by the sum of credit limits 	|
 | age									|    INT	|	Age of borrower in years 																																	|
 | NumberOfTime30-59DaysPastDueNotWorse	|    INT	|	Number of times borrower has been 30-59 days past due but no worse in the last 2 years. 																	|
